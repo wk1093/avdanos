@@ -1,3 +1,0 @@
-# AvdanOS
-
-### WIP
